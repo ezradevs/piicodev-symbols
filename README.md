@@ -14,4 +14,9 @@ In this repository you will find symbols in the following formats:
 When you open DrawIO there is an option under File to Open Library From
 with a number of options for library sources.
 
-The file to open is "PiicoDevSymbols.xml".
+The file to open is "PiicoDevSymbols.xml".  This can be downloaded or
+saved where you wish.  Alternatively, you can Open a library from a 
+URL and then copy/paste the URL below:
+
+https://raw.githubusercontent.com/garynthompson/piicodev-symbols/main/DrawIO/PiicoDevSymbols.xml
+
